@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/akilaliyanage/react-todo-app.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/akilaliyanage/react-todo-app.git/static/js/main.3bbb0264.chunk.js",
+    "main.js.map": "/akilaliyanage/react-todo-app.git/static/js/main.3bbb0264.chunk.js.map",
+    "runtime-main.js": "/akilaliyanage/react-todo-app.git/static/js/runtime-main.b342c563.js",
+    "runtime-main.js.map": "/akilaliyanage/react-todo-app.git/static/js/runtime-main.b342c563.js.map",
+    "static/js/2.541dfa3c.chunk.js": "/akilaliyanage/react-todo-app.git/static/js/2.541dfa3c.chunk.js",
+    "static/js/2.541dfa3c.chunk.js.map": "/akilaliyanage/react-todo-app.git/static/js/2.541dfa3c.chunk.js.map",
+    "index.html": "/akilaliyanage/react-todo-app.git/index.html",
+    "precache-manifest.d201c8a87d71b559eee12ad0b29028b3.js": "/akilaliyanage/react-todo-app.git/precache-manifest.d201c8a87d71b559eee12ad0b29028b3.js",
+    "service-worker.js": "/akilaliyanage/react-todo-app.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/akilaliyanage/react-todo-app.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.541dfa3c.chunk.js.LICENSE.txt": "/akilaliyanage/react-todo-app.git/static/js/2.541dfa3c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/akilaliyanage/react-todo-app.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b342c563.js",
+    "static/js/2.541dfa3c.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3bbb0264.chunk.js"
+  ]
+}
