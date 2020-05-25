@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/akilaliyanage/react-todo-app.git/static/css/main.5f361e03.chunk.css",
-    "main.js": "/akilaliyanage/react-todo-app.git/static/js/main.3bbb0264.chunk.js",
-    "main.js.map": "/akilaliyanage/react-todo-app.git/static/js/main.3bbb0264.chunk.js.map",
-    "runtime-main.js": "/akilaliyanage/react-todo-app.git/static/js/runtime-main.b342c563.js",
-    "runtime-main.js.map": "/akilaliyanage/react-todo-app.git/static/js/runtime-main.b342c563.js.map",
-    "static/js/2.541dfa3c.chunk.js": "/akilaliyanage/react-todo-app.git/static/js/2.541dfa3c.chunk.js",
-    "static/js/2.541dfa3c.chunk.js.map": "/akilaliyanage/react-todo-app.git/static/js/2.541dfa3c.chunk.js.map",
-    "index.html": "/akilaliyanage/react-todo-app.git/index.html",
-    "precache-manifest.d201c8a87d71b559eee12ad0b29028b3.js": "/akilaliyanage/react-todo-app.git/precache-manifest.d201c8a87d71b559eee12ad0b29028b3.js",
-    "service-worker.js": "/akilaliyanage/react-todo-app.git/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/akilaliyanage/react-todo-app.git/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.541dfa3c.chunk.js.LICENSE.txt": "/akilaliyanage/react-todo-app.git/static/js/2.541dfa3c.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/akilaliyanage/react-todo-app.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/react-todo-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-todo-app/static/js/main.b2e9c091.chunk.js",
+    "main.js.map": "/react-todo-app/static/js/main.b2e9c091.chunk.js.map",
+    "runtime-main.js": "/react-todo-app/static/js/runtime-main.6a710c85.js",
+    "runtime-main.js.map": "/react-todo-app/static/js/runtime-main.6a710c85.js.map",
+    "static/js/2.541dfa3c.chunk.js": "/react-todo-app/static/js/2.541dfa3c.chunk.js",
+    "static/js/2.541dfa3c.chunk.js.map": "/react-todo-app/static/js/2.541dfa3c.chunk.js.map",
+    "index.html": "/react-todo-app/index.html",
+    "precache-manifest.22d29eabed3621a162fa5f812597e11f.js": "/react-todo-app/precache-manifest.22d29eabed3621a162fa5f812597e11f.js",
+    "service-worker.js": "/react-todo-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-todo-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.541dfa3c.chunk.js.LICENSE.txt": "/react-todo-app/static/js/2.541dfa3c.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-todo-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b342c563.js",
+    "static/js/runtime-main.6a710c85.js",
     "static/js/2.541dfa3c.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3bbb0264.chunk.js"
+    "static/js/main.b2e9c091.chunk.js"
   ]
 }
